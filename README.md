@@ -1,9 +1,10 @@
 # online_ecommerce_shop
 
-A new Eshop project.
-![2](https://user-images.githubusercontent.com/54646649/148025124-25c7eafa-17b3-450d-b90a-ef8db95b68a8.jpeg)
-![3](https://user-images.githubusercontent.com/54646649/148025131-a81f03e2-02b5-426a-9312-ee181cc37044.jpeg)
-![4](https://user-images.githubusercontent.com/54646649/148025132-ef68f5db-c90a-45e4-bf7b-677a0b017a92.jpeg)
-![1](https://user-images.githubusercontent.com/54646649/148025133-ca7d46cb-def3-4abf-890c-29dd526b394b.jpeg)
+Eshop is a Developed  by fake api data as a example project.
+
+![2](https://user-images.githubusercontent.com/54646649/148025638-eddf0f08-25ba-4054-bf8c-84197343eb5e.jpeg)
+![3](https://user-images.githubusercontent.com/54646649/148025643-3633395b-d5e3-4584-9135-50097db02297.jpeg)
+![4](https://user-images.githubusercontent.com/54646649/148025644-d6f5ae2c-49c7-4bea-817e-4ede539c9783.jpeg)
+![1](https://user-images.githubusercontent.com/54646649/148025645-b383e147-0dcd-4664-a3b5-f66b147025a8.jpeg)
 
 
